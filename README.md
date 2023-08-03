@@ -4,8 +4,7 @@
                        [Spotify转移歌单](http://www.trikatuka.aknakn.eu/#/)
 
 邮局搭建               [钓鱼邮件便捷发送](https://github.com/A10ha/EmailSender)
-                       [pmta:MailWizz设置方法](https://github.com/alkhadher/pmta)
-                       [Pmta设置](https://inguide.in/install-configure-powermta-centos-8-ip-rotation-with-config-file/）
+                       [pmta:MailWizz设置方法](https://github.com/alkhadher/pmta)                 
                        [俄罗斯PMTA教程&安装包](https://cloud.mail.ru/public/4ypK/2bTWBCRqZ)
                        [卡头属地查询](https://binlist.pro/?#check_section) 
 
