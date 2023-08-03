@@ -1,6 +1,7 @@
-                       [北京时间校准](http://www.daojishiqi.com/bjtime.asp)
+其他                   [北京时间校准](http://www.daojishiqi.com/bjtime.asp)
                        [编程随想](https://program-think.blogspot.com/2012/06/book-review-road-less-traveled.html)
                        [三网空号验证](https://www.114best.com/kh/) 
+                       [Spotify转移歌单](http://www.trikatuka.aknakn.eu/#/)
 
 邮局搭建               [钓鱼邮件便捷发送](https://github.com/A10ha/EmailSender)
                        [pmta:MailWizz设置方法](https://github.com/alkhadher/pmta)
@@ -17,6 +18,5 @@ AWS购买                [独角数卡](https://fk.linshi.co/)
                        [礼品卡USDT购买](https://www.buysellvouchers.com/zh/products/view/Gift_cards-Netflix/a4a81323237333/)
                        [虚拟账号1](https://www.feijiji.com/)
                        [虚拟账号2](https://www.selldra.com/product)
+                       [邮箱购买](https://www.buyedu.gq/)  
 
-                       [邮箱购买](https://www.buyedu.gq/)                                     
-                       [Spotify转移歌单](http://www.trikatuka.aknakn.eu/#/)
