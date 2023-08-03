@@ -18,5 +18,5 @@ AWS购买                [独角数卡](https://fk.linshi.co/)
                        [虚拟账号1](https://www.feijiji.com/)
                        [虚拟账号2](https://www.selldra.com/product)
 
-                       [邮箱购买](https://www.buyedu.gq/)                                      
+                       [邮箱购买](https://www.buyedu.gq/)                                     
                        [Spotify转移歌单](http://www.trikatuka.aknakn.eu/#/)
