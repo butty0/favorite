@@ -1,6 +1,6 @@
 
-#仓库
-###编辑以下内容的地址 [GitHub](https://github.com/butty0/favorite/edit/main/README.md)
+# 仓库
+### 编辑以下内容的地址 [GitHub](https://github.com/butty0/favorite/edit/main/README.md)
 
 
 其他:           -[北京时间校准](http://www.daojishiqi.com/bjtime.asp)
