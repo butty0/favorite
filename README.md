@@ -3,7 +3,8 @@
 ### 编辑以下内容的地址 [GitHub](https://github.com/butty0/favorite/edit/main/README.md)
 
 ###### 其他
-
+* [薅羊毛前线](https://jike.info/recent)
+* [搭建红杏出墙指南](https://ybfl.xyz/#vps%E7%9B%B8%E5%85%B3)
 * [Markdown语法指南](https://juejin.cn/post/6863606987868143623)
 * [Markdown在线编辑](https://markdown.lovejade.cn/)
 * [北京时间校准](http://www.daojishiqi.com/bjtime.asp)
