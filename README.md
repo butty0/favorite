@@ -4,7 +4,7 @@
 
 
 其他:           - [北京时间校准](http://www.daojishiqi.com/bjtime.asp)
-                -[编程随想](https://program-think.blogspot.com/2012/06/book-review-road-less-traveled.html)
+                - [编程随想](https://program-think.blogspot.com/2012/06/book-review-road-less-traveled.html)
                 -[三网空号验证](https://www.114best.com/kh/) 
                 -[Spotify转移歌单](http://www.trikatuka.aknakn.eu/#/)
 
